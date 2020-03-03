@@ -1,0 +1,16 @@
+{
+  "name": "cookings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./NodeJs/loginPage.js"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.4"
+  }
+}
